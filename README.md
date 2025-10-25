@@ -40,14 +40,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ouissalrm&theme=radical&no-bg=true&margin-w=15"/>
 </div>
 
----
 
-### ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
----
 
 ### 🔝 Top Contributed Repos
 <div align="center">
