@@ -33,12 +33,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ouissalrm&theme=radical&hide_border=false&background=FFC0CB"/>
 </div>
 
----
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ouissalrm&theme=radical&no-bg=true&margin-w=15"/>
-</div>
+
+
 
 
 
