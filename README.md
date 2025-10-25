@@ -1,6 +1,3 @@
-<!-- Animated Banner -->
-![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Pink Banner](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
 
 
 # 👋 Hi, I'm Wissal!
