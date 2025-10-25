@@ -5,10 +5,10 @@
 
   <!-- Socials -->
   <p>
-    <a href="https://www.linkedin.com/in/wissal-khrams-a2120234b/">
+    <a href="https://www.linkedin.com/in/wissalkhrams/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://www.instagram.com/yourinstagram/">
+    <a href="https://www.instagram.com/designagency2626/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://github.com/ouissalrm">
