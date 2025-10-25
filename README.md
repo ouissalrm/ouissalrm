@@ -1,3 +1,6 @@
+<!-- Animated Banner -->
+![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 # 👋 Hi, I'm Wissal!
 ## 💻 Développeuse Full Stack
 
